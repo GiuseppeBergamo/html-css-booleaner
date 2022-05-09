@@ -1,9 +1,10 @@
+/* Generics */
 body{
     width: 1080px;
     margin: auto;
 }
 
-
+/* Header */
 .barra-logo {
     background-color: #4ea0ff;
     width: 1000px;
@@ -15,3 +16,53 @@ body{
     height: 100px;
     width: 150px;
 }
+
+/* Main */
+.titolo{
+    margin-bottom: 0;
+}
+
+.grey {
+    margin: 0;
+    color: grey;
+}
+
+.blue {
+    color:#4ea0ff
+}
+.immagini{
+    margin-top: 30px;
+}
+.size{
+    font-size: small;
+}
+.evidenziatore {
+    background-color: yellow;
+}
+
+.lista {
+    padding-left: 13px;
+}
+
+/* Inizio tabella */
+table{
+    
+    border-spacing: 0px;
+    text-align: left;
+}
+
+thead {
+    background-color: #20a9e5;
+    line-height: 20px;
+    color: white;
+}
+
+.space{
+    width: 25%;
+    
+}
+
+.lightblue{
+    background-color: #b1e5f2;
+}
+
