@@ -1,0 +1,17 @@
+body{
+    width: 1080px;
+    margin: auto;
+}
+
+
+.barra-logo {
+    background-color: #4ea0ff;
+    width: 1000px;
+    height: 100px;
+    background-image: url(../img/pattern.png);
+}
+
+#logo{
+    height: 100px;
+    width: 150px;
+}
